@@ -2,7 +2,7 @@ a_slot_1:
   beta: 9
 a_slot_2: 
   beta: 5
-a_slot_3: 
-  beta: 6
 a_slot_4: 
+  beta: 3
+a_slot_3: 
   beta: 2
