@@ -9,7 +9,6 @@ a_slot_3:
 a_slot_5: 
   beta: 6
 
-
 left_side:
     zeta_2
 left_side:
@@ -19,3 +18,8 @@ left_side:
 left_side:
     zeta_5
 left_side:
+
+right_side:
+    zeta_1
+right_side:
+    zeta_2
