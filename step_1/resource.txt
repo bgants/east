@@ -1,0 +1,6 @@
+file: c://fly/big/left/range/step2_a_step
+
+{
+  name: left,
+  id: 23785,
+}
