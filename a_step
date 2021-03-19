@@ -8,6 +8,11 @@ a_slot_2:
 a_slot_4: 
   beta: 3
 a_slot_3: 
+
+
+on sense - loo it rest:
+
+a_slot_3: 
   beta: 7
 a_slot_4: 
   beta: 6
@@ -27,6 +32,8 @@ left_side:
     zeta_5
 left_side:
     zeta_6
+
+on sense - loo it rest:
 
 right_side:
     zeta_1
